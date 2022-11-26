@@ -3,7 +3,7 @@
 ## bootstrapping with git repo or GITHUB repo
 ### git repo
 ```bash
-flux bootstrap git --url=https://xxx.aaa.com/xxx/xxx/fluxcd.git --username=xxx --password=xxx --timeout=30m
+flux bootstrap git --url=ssh://git@<host>/<org>/<repository> --ssh-key-algorithm=rsa --private-key-file=<path/to/private.key> --timeout=30m
 ```
 ### github repo
 ```bash
