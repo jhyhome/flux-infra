@@ -27,7 +27,7 @@ flux bootstrap github \
 <img width="763" alt="截屏2022-11-26 17 37 42" src="https://user-images.githubusercontent.com/57861564/204082221-adc1a005-0569-4125-ae8d-33e378ce08fb.png">
 
 
-## bootstrapping one cluster with existing flux system
+## bootstrapping one cluster with existing flux git repo
 <img width="1026" alt="截屏2022-11-26 17 19 32" src="https://user-images.githubusercontent.com/57861564/204081585-b16652ac-9cc7-4c5e-80e7-d917fd653b68.png">
 <img width="1067" alt="截屏2022-11-26 17 20 33" src="https://user-images.githubusercontent.com/57861564/204081618-aad341dc-7586-4498-8d44-f4c90f1f6d0b.png">
 <img width="1079" alt="截屏2022-11-26 17 21 44" src="https://user-images.githubusercontent.com/57861564/204081659-6509105f-92ca-41d9-b91a-8ea10b7819c1.png">
